@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Python
+.__pycache__/
+
+# Data and docs files
+data/
+docs/
+old_code/
+old_output/
+my_output/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo 
